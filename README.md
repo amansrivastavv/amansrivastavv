@@ -55,8 +55,8 @@ If you find anything in my code that can be improved, or you want to share ideas
 I’m always open to **feedback**, **collaboration**, and **learning together**.
 
 📬 **Get in touch:**  
-[LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-[Twitter/X](https://twitter.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/aman-kumar-srivastav-627ba1258/)  
+[Twitter/X]([https://twitter.com/YOUR-USERNAME](https://x.com/amansrivastavv)
 
 ---
 
