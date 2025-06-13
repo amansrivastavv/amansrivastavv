@@ -56,7 +56,7 @@ I’m always open to **feedback**, **collaboration**, and **learning together**.
 
 📬 **Get in touch:**  
 [LinkedIn](https://www.linkedin.com/in/aman-kumar-srivastav-627ba1258/)  
-[Twitter/X]([https://twitter.com/YOUR-USERNAME](https://x.com/amansrivastavv)
+[Twitter/X](https://x.com/amansrivastavv)
 
 ---
 
