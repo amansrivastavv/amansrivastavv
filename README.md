@@ -1,51 +1,65 @@
-# 🚀 Hey there, I'm Aman Srivastav
-> "Learning every day, building one line of code at a time."
+# 🚀 Hello, I'm Aman Srivastav
 
-I'm a passionate **Front-End Developer** with hands-on experience in creating responsive, user-friendly websites using technologies like:
+> *"Consistent efforts beat talent when talent doesn’t show up consistently."*
 
-- ✅ HTML, CSS, JavaScript  
-- ✅ Bootstrap, Tailwind CSS  
+I'm a dedicated **Front-End Developer** with practical experience in building clean, responsive, and user-focused web interfaces. I enjoy turning ideas into real, functional products using:
+
+- ✅ HTML, CSS, JavaScript, Java  
+- ✅ Bootstrap, Tailwind CSS, Ant Design, Material UI  
 - ✅ React.js, Next.js  
 - ✅ Git & GitHub  
 
-## 🛠️ My Journey So Far
+I use this GitHub as both my **project showcase** and **learning journal**.
 
-I have **real-world experience** in frontend development, working on live projects and solving real user problems. I believe in writing clean, maintainable code and improving with every project I build.
+---
 
-## 📚 Currently Learning
+## 💼 Professional Experience
 
-I'm on a mission to **master Full-Stack Web Development**.  
-Right now, I'm learning:
+With hands-on experience working on **real-world projects**, I focus on writing clean, reusable code and building intuitive user interfaces. I believe in continuous learning and improving with every line of code I write.
+
+---
+
+## 📚 Currently Growing In
+
+I’m actively expanding my skills to become a **Full-Stack Developer**, currently learning:
 
 - Node.js  
 - Express.js  
 - MongoDB  
 - TypeScript  
-- System Design Basics  
+- System Design (Architecture, Scalability, Patterns)
 
+---
 
-## 📁 My GitHub = My Digital Notebook
+## 🧠 GitHub: My Learning Journal
 
-Whatever I learn, I **document it in detail** and push it to GitHub —  
-so I can revise it later, and maybe help someone else on their learning path. 💡
+Everything I learn — whether it’s a concept, mini-project, or real-world logic — I document and upload here on GitHub.
 
-You’ll find:
+This helps me:
 
-- Well-explained mini-projects
-- Concept-based repositories (like localStorage, API, etc.)
-- Clean and readable code files with comments
+- Revisit and revise concepts anytime  
+- Track my growth clearly  
+- Share knowledge that might help others too  
 
+Feel free to explore my repositories. You’ll find:
 
-## 🤝 Let’s Connect & Collaborate
+- Well-structured codebases  
+- Concept-based examples (like localStorage, API fetching)  
+- Beginner-friendly documentation with comments
 
-If you ever find something in my code that can be improved —  
-feel free to fork, suggest, or just reach out to me.  
-I’m always open to feedback, learning, and collaboration.
+---
 
-📬 **Drop me a message:**  
+## 🤝 Let's Connect & Collaborate
+
+If you find anything in my code that can be improved, or you want to share ideas — feel free to connect!  
+I’m always open to **feedback**, **collaboration**, and **learning together**.
+
+📬 **Get in touch:**  
 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-[Twitter/X](https://twitter.com/YOUR-USERNAME)  
+[Twitter/X](https://twitter.com/YOUR-USERNAME)
 
-> "I don’t compete with others — I compete with my yesterday."
+---
 
-Thanks for visiting! 😊
+> *"I don’t aim to be better than others — I strive to be better than who I was yesterday."*
+
+Thanks for stopping by! 😊
