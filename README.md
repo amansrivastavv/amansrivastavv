@@ -164,38 +164,6 @@ Admin dashboard for analytics, user management and operations.
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amansrivastavv&show_icons=true&theme=tokyonight"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=amansrivastavv&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansrivastavv&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amansrivastavv&theme=tokyonight&no-frame=true&row=1"/>
-
-</p>
-
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=amansrivastavv&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-⭐️ From **Aman Kumar Srivastav**
 
 # 📊 GitHub Stats
 
