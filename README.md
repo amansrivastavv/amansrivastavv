@@ -175,6 +175,3 @@ Admin dashboard for analytics, user management and operations.
 
 ---
 
-
-
-⭐️ From **Aman Kumar Srivastav** 11/10 karo isko ui bhi , tailwind bhi add karo , angular bhi, nestjs ,aur php bhi , mongodb , mysql ,bhi
