@@ -114,24 +114,6 @@ Admin dashboard for managing analytics, users, and business operations.
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=amansrivastavv&theme=github-dark)
 
----
 
-# 👀 Profile Visitors
-
-![](https://visitcount.itsvg.in/api?id=amansrivastavv&icon=6&color=0)
-
----
 
 ⭐️ From **Aman Kumar Srivastav**
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amansrivastavv&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=amansrivastavv&icon=6&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Amansrivastavvv) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
