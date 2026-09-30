@@ -44,8 +44,3 @@ Enterprise platforms · Cloud deployment
 
 ────────────────────────────────────────────
 
-LINKS
-
-Portfolio ↗   LinkedIn ↗   Email ↗
-
-────────────────────────────────────────────
